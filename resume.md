@@ -1,4 +1,5 @@
-Education
+Ryan Rasch
+Grad: 2028
 Northeastern University Boston, MA
 Bachelor of Science in Cybersecurity and Business Expected Graduation: May 2028
 • Relevant coursework: Ethical Hacking, Network Security, Data Privacy, Cryptography, Business Analytics.
