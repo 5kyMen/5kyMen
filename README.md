@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Repositories are kept private other than web hoasting and read me. 
+Repositories are kept private other than web hosting and read me. 
 
 Thank you for checking in!
 <!--
