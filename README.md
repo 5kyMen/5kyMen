@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Repositories are kept private other than web hoasting and read me. 
+
+Thank you for checking in!
 <!--
 **5kyMen/5kyMen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
