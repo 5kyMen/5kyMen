@@ -34,9 +34,9 @@ I'm a **Cybersecurity** student at **Northeastern University** (Dean's List), pa
 - **🛸 FPV Racing Drone** - Custom quadcopter with PID tuning and 3D-printed components
 - **💬 ShackChat Protocol Client** - Written in both Plan 9 C and Racket
 - **🔍 SLIP** - OSINT tool using ML for geographical location from street-side imagery
-- **👻 MR Horror Game** - Unity-based stealth game inspired by Slenderman & Phasmophobia
+- **👻 MR Horror Game** - Unity-based stealth [game](https://drive.google.com/drive/folders/1O9dqwrok4139lMXG9vngPN0ql2EwhDRM) inspired by Slenderman & Phasmophobia
 
-   see: [text](https://drive.google.com/drive/folders/1O9dqwrok4139lMXG9vngPN0ql2EwhDRM)
+
 
 ## 📚 Currently Learning
 
