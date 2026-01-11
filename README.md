@@ -35,7 +35,8 @@ I'm a **Cybersecurity** student at **Northeastern University** (Dean's List), pa
 - **💬 ShackChat Protocol Client** - Written in both Plan 9 C and Racket
 - **🔍 SLIP** - OSINT tool using ML for geographical location from street-side imagery
 - **👻 MR Horror Game** - Unity-based stealth game inspired by Slenderman & Phasmophobia
-   see: [text](https://drive.google.com/file/d/1-BJGsGFFuqnuUnGJM90UQnR1WOIlC62r/view?usp=sharing)
+
+   see: [text](https://drive.google.com/drive/folders/1O9dqwrok4139lMXG9vngPN0ql2EwhDRM)
 
 ## 📚 Currently Learning
 
