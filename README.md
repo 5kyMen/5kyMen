@@ -21,14 +21,6 @@ I'm a **Cybersecurity** student at **Northeastern University** (Dean's List), pa
 - **🕵️ OSINT** - Geolocation, imagery intelligence, building tools like SLIP for street-side data analysis
 - **💻 Operating Systems** - Linux, Plan9, TempleOS enthusiast; currently building custom embedded Linux with LFS
 
-## 💼 Experience
-
-**Network and Systems Consultant** | Slavov Lab, Northeastern University *(Feb 2025 - Present)*
-> Configuring enterprise storage solutions and servers for single-cell proteomics research
-
-**Advisor & Coordinator** | ACT Cybersecurity Competition *(Sept - Dec 2024)*
-> Founded and organized university-wide CTF competition in Thessaloniki, Greece
-
 ## 🚀 Notable Projects
 
 - **🛸 FPV Racing Drone** - Custom quadcopter with PID tuning and 3D-printed components
@@ -60,5 +52,3 @@ I'm a **Cybersecurity** student at **Northeastern University** (Dean's List), pa
 
 [![Website](https://img.shields.io/badge/-ryanrasc.com-000000?style=flat-square&logo=safari&logoColor=white)](https://ryanrasc.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanraschkovsky)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ryanraschkovsky@gmail.com)
-
