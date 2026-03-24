@@ -28,26 +28,6 @@ I'm a **Cybersecurity** student at **Northeastern University** (Dean's List), pa
 - **🔍 SLIP** - OSINT tool using ML for geographical location from street-side imagery
 - **👻 MR Horror Game** - Unity-based stealth [game](https://drive.google.com/drive/folders/1O9dqwrok4139lMXG9vngPN0ql2EwhDRM) inspired by Slenderman & Phasmophobia
 
-
-
-## 📚 Currently Learning
-
-- Haskell, COBOL, Rust, Typescript
-- Lambda Calculus & Category Theory
-- CompTIA Security+, General Class Radio License
-- Japanese (N5 Proficiency Exam)
-
-## 🌍 Languages
-
-🇧🇷 Portuguese | 🇺🇸 English | 🇪🇸 Spanish | 🇯🇵 Japanese | 🇬🇷 Greek | 🗣️ Toki Pona
-
-## 📻 Fun Facts
-
-- **FCC Licensed** Amateur Radio Operator (Technician Class)
-- Radio volunteer for the **2025 Boston Marathon** 🏃
-- Portuguese teacher for 20+ students through NUCALLS
-- Photography enthusiast with a Canon EOS 3000D
-
 ## 🤝 Let's Connect!
 
 [![Website](https://img.shields.io/badge/-ryanrasc.com-000000?style=flat-square&logo=safari&logoColor=white)](https://ryanrasc.com)
